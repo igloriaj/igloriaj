@@ -1,4 +1,15 @@
-## Hi there 👋
+<h1 align=center>Hi there 👋, I'm JP Igloria</h1>
+
+<h2 align=center>I am a second-year CS major at Oregon State University</h2>
+
+<h3 align=center>Languages and Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,figma,git,mongodb,nodejs,powershell,py" />
+  </a>
+</p>
+
+
 
 <!--
 **igloriaj/igloriaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
