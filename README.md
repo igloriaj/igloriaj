@@ -5,9 +5,11 @@
 <h3 align=center>Languages and Tools I've Used:</h3>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,figma,git,mongodb,nodejs,powershell,py" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,figma" />
   </a>
 </p>
+<p align=center>
+  <a><img src="https://skillicons.dev/icons?i=git,mongodb,nodejs,powershell,py"> </a>
 
 
 <h3 align=center>Connect with me:</h3>
