@@ -15,7 +15,7 @@
 <h3 align=center>Connect with me:</h3>
 
 <p align=center>
-  <a href="https://www.linkedin.com/in/john-paul-igloria-00408a2a9/">
+  <a href="https://www.linkedin.com/in/jp-igloria/">
     <img src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/linkedin.svg">
   </a>
 </p>
